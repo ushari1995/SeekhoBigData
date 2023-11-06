@@ -3,7 +3,7 @@ object Program4 {
 
   def main(args: Array[String]):Unit = {
 
-    val num = 299
+    val num = 399
 
     //checking whether the range falls between 100-100
 
